@@ -1,0 +1,151 @@
+body {
+  width: 875px;
+  margin: 0 auto;
+  padding-top: 99px;
+}
+
+nav {
+  font-family: 'Philosopher', sans-serif;
+  font-size: 35px;
+  text-align: center;
+  background-color: #1d3030;
+  display: flex;
+  justify-content: space-between;
+  position: fixed;
+  top: 0;
+  width: inherit;
+  z-index: 1;
+}
+
+nav a {
+ color: #FFFFF0;
+ text-decoration: none;
+ padding: 30px;
+}
+
+nav a:hover{
+  background-color: #396060;
+  color: #f4f4a4;
+}
+
+div#content {
+  margin: 0 auto;
+  display: flex;
+  background: lightgrey;
+  border: solid;
+  padding-bottom: 20px;
+}
+
+aside {
+  color: #222;
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  font-family: 'Rajdhani', sans-serif;
+  font-weight: bold;
+  background-image: url('https://raw.githubusercontent.com/green-fox-academy/myfirstapp-syllabus/master/assets/first-website-header.png');
+  background-position: center;
+  background-size: 460%;
+  box-shadow: 10px 10px 5px #333;
+}
+
+p#hi {
+  font-size: 35px;
+  margin: 300px 0 0 50px;
+}
+
+p#name {
+  font-size: 80px;
+  margin: 0 0 20px 50px;
+  line-height: 1
+}
+
+h1 {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 60px;
+  position: relative;
+  color: #FFFFF0;
+  background-color: #333;
+  padding: 60px;
+  margin-bottom: 0;
+  box-shadow: 10px 10px 5px #333;
+  border-right: solid;
+  border-bottom: solid;
+}
+
+h1::before {
+  content: '"';
+  font-family: 'Proza Libre', sans-serif;
+  font-size: 70px;
+  line-height: 10px;
+  position: absolute;
+  top: 0;
+  left: 10px;
+  rotate: 180deg;
+}
+
+h1#faith {
+  margin: 280px 0 180px 0;
+}
+
+main {
+  font-family: 'Philosopher', sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  padding: 0 30px;
+}
+
+div#bio {
+  font-size: 20px;
+  margin-bottom: 300px;
+}
+
+div#anchor1 {
+  width: 1px;
+  height: 1px;
+  position: absolute;
+  top: 550px;
+}
+
+div#anchor2 {
+  width: 1px;
+  height: 1px;
+  position: absolute;
+  top: 1244px;
+}
+
+div.divs {
+  margin-bottom: 60px;
+}
+
+h2 {
+  margin-bottom: 50px;
+  text-decoration: underline;
+}
+
+h3 {
+  margin-bottom: 0;
+  font-size: 25px;
+}
+
+h4 {
+  font-size: 15px;
+  font-style: italic;
+  margin-top: 5px;
+}
+
+p.paragraph {
+  line-height: 1.5;
+}
+
+ul {
+  list-style-type: square;
+}
+
+li {
+  margin: 5px;
+  line-height: 1.3;
+}
