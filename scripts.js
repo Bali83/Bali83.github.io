@@ -4,47 +4,47 @@ let imagesData = [
     {
         photo: 'Images/01.jpg',
         title: 'Church lake',
-        description: '01 What happened here, why is this a very nice image',
+        description: '01 What a beautiful image',
     },
     {
         photo: 'Images/02.jpg',
         title: 'Tree in water at sunset',
-        description: '02 What happened here, why is this a very nice image',
+        description: '02 What a beautiful image',
     },
     {
         photo: 'Images/03.jpg',
         title: 'Sunrise boat',
-        description: '03 What happened here, why is this a very nice image',
+        description: '03 What a beautiful image',
     },
     {
         photo: 'Images/04.jpg',
         title: 'French polynesia',
-        description: '04 What happened here, why is this a very nice image',
+        description: '04 What a beautiful image',
     },
     {
         photo: 'Images/05.jpg',
         title: 'Sea turtle',
-        description: '05What happened here, why is this a very nice image',
+        description: '05 What a beautiful image',
     },
     {
         photo: 'Images/06.jpg',
         title: 'Bora bora',
-        description: '06 What happened here, why is this a very nice image',
+        description: '06 What a beautiful image',
     },
     {
         photo: 'Images/07.jpg',
         title: 'Kirkjufell, Iceland',
-        description: '07 What happened here, why is this a very nice image',
+        description: '07 What a beautiful image',
     },
     {
         photo: 'Images/08.jpg',
         title: 'Forest trees',
-        description: '08 What happened here, why is this a very nice image',
+        description: '08 What a beautiful image',
     },
     {
         photo: 'Images/09.jpg',
         title: 'Moss and mushrooms',
-        description: '09 What happened here, why is this a very nice image',
+        description: '09 What a beautiful image',
     },
 ];
 
